@@ -8,8 +8,11 @@ include inside your max project or folder and create a v8ui object like this:
 # info:
 you'll need three seperate message boxes to active the game.
 1 - start
+
 2 - stop
+
 3 - clear
+
 To choose a starting point for the game you just click on the black box while the game is stopped.
 
 the left outlet will output the total cells alive.
