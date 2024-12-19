@@ -7,6 +7,7 @@ include inside your max project or folder and create a v8ui object like this:
 
 # info:
 you'll need three seperate message boxes to active the game.
+
 1 - start
 
 2 - stop
